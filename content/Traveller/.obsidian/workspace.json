@@ -110,7 +110,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "trav_combat_cheat_sheet.pdf",
+                "file": "Combat Flow Chart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "trav_combat_cheat_sheet.pdf",
+                "file": "Combat Flow Chart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "trav_combat_cheat_sheet.pdf"
+                "file": "Combat Flow Chart.md"
               }
             }
           }
@@ -237,19 +237,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc5e744bd27fab7f",
+  "active": "a5c0db060c73338e",
   "lastOpenFiles": [
     "Combat Cheat Sheet.md",
     "Combat Flow Chart.md",
+    "Handouts - Binder Resources.md",
+    "trav_combat_cheat_sheet.pdf",
     "combat_flow_chart.png",
     "Character Creation Flowchart.md",
-    "Handouts - Binder Resources.md",
     "Trav2022CharSheet_new.pdf",
     "Traveller GM Screen.md",
     "Recaps - Story So Far.md",
     "Session Materials.md",
     "7.11.23 Session.md",
-    "trav_combat_cheat_sheet.pdf",
     "Mg2e Char Creation.pdf",
     "54953-Traveller_GM_Screen_v1.1.pdf",
     "hide/tg2trlwx.bmp",
