@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Combat Cheat Sheet.md",
+                "file": "Combat Flow Chart.md",
                 "mode": "source",
                 "source": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Combat Cheat Sheet.md",
+                "file": "Combat Flow Chart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Combat Cheat Sheet.md",
+                "file": "Combat Flow Chart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Combat Cheat Sheet.md"
+                "file": "Combat Flow Chart.md"
               }
             }
           }
@@ -239,16 +239,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cda08af398d2ffee",
+  "active": "dc5e744bd27fab7f",
   "lastOpenFiles": [
+    "combat_flow_chart.png",
+    "Combat Flow Chart.md",
+    "Combat Cheat Sheet.md",
     "Character Creation Flowchart.md",
     "Handouts - Binder Resources.md",
     "Trav2022CharSheet_new.pdf",
     "Traveller GM Screen.md",
-    "Combat Flow Chart.md",
-    "Combat Cheat Sheet.md",
     "Recaps - Story So Far.md",
-    "combat flow chart.png",
     "Session Materials.md",
     "7.11.23 Session.md",
     "Traveller Cheat Sheet (Print Friendly).pdf",

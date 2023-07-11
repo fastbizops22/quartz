@@ -3,4 +3,5 @@ title: "Combat Flow Chart"
 tags:
 ---
 
-![[combat flow chart.png]]
+![Example Image](/content/Traveller/combat_flow_chart.png)
+![[combat_flow_chart.png]]
