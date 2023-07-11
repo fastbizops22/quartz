@@ -17,7 +17,7 @@ name: Jacky Zhao
 # whether to globally show the table of contents on each page
 # this can be turned off on a per-page basis by adding this to the
 # front-matter of that note
-enableToc: true
+enableToc: false
 
 # whether to by-default open or close the table of contents on each page
 openToc: false
@@ -26,7 +26,7 @@ openToc: false
 enableLinkPreview: true
 
 # whether to render titles for code blocks
-enableCodeBlockTitle: true 
+enableCodeBlockTitle: true
 
 # whether to render copy buttons for code blocks
 enableCodeBlockCopy: true 
@@ -43,7 +43,7 @@ enableLatex: true
 enableSPA: true
 
 # whether to render a footer
-enableFooter: true
+enableFooter: false
 
 # whether backlinks of pages should show the context in which
 # they were mentioned
@@ -54,7 +54,7 @@ enableRecentNotes: false
 
 # whether to display an 'edit' button next to the last edited field
 # that links to github
-enableGitHubEdit: true
+enableGitHubEdit: false
 GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
 
 # whether to render mermaid diagrams
@@ -75,14 +75,9 @@ description:
 
 # title of the home page (also for SEO)
 page_title:
-  "🪴 Quartz 3.3"
+  "Traveller Notes"
 
 # links to show in the footer
-links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: Github
-    link: https://github.com/jackyzha0
 ```
 
 ### Code Block Titles
@@ -155,37 +150,6 @@ To customize the Interactive Graph view, you can poke around `data/graphConfig.y
 enableGlobalGraph: false
 
 ### Local Graph ###
-localGraph:
-    # whether automatically generate a legend
-    enableLegend: false
-    
-    # whether to allow dragging nodes in the graph
-    enableDrag: true
-    
-    # whether to allow zooming and panning the graph
-    enableZoom: true
-    
-    # how many neighbours of the current node to show (-1 is all nodes)
-    depth: 1
-    
-    # initial zoom factor of the graph
-    scale: 1.2
-    
-    # how strongly nodes should repel each other
-    repelForce: 2
-
-    # how strongly should nodes be attracted to the center of gravity
-    centerForce: 1
-
-    # what the default link length should be
-    linkDistance: 1
-    
-    # how big the node labels should be
-    fontSize: 0.6
-    
-    # scale at which to start fading the labes on nodes
-    opacityScale: 3
-
 ### Global Graph ###
 globalGraph:
 	# same settings as above
