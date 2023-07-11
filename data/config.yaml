@@ -1,17 +1,17 @@
 name: Jacky Zhao
-enableToc: true
+enableToc: false
 openToc: false
 enableLinkPreview: true
 enableLatex: true
-enableCodeBlockTitle: true
+enableCodeBlockTitle: false
 enableCodeBlockCopy: true
-enableCallouts: true
-enableSPA: true
-enableFooter: true
-enableContextualBacklinks: true
+enableCallouts: false
+enableSPA: false
+enableFooter: false
+enableContextualBacklinks: false
 enableRecentNotes: false
-enableGitHubEdit: true
-enableMermaid: true
+enableGitHubEdit: false
+enableMermaid: false
 GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
 search:
   enableSemanticSearch: false
@@ -21,9 +21,4 @@ description:
   Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
   Wikilink support, backlinks, local graph, tags, and link previews.
 page_title:
-  "🪴 Quartz 3.3"
-links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: GitHub
-    link: https://github.com/jackyzha0
+  "Traveller Notes"
