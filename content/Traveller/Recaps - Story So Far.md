@@ -3,7 +3,7 @@ title: "Recaps - Story So Far"
 tags:
 ---
 
-### Session 1:
+## Session 1:
 - Biter University - Kraigori was a researcher for a few years and delved into frowned upon nanobot technology
 - Theoretical research was one thing, trying to specialize and become a nanobot engineer was kicked out by the head of the engineering dept Slugma Kruggins
 - Young and has no point, trying to find solace in the bottom of a bottle
@@ -16,7 +16,7 @@ tags:
 - Flies to remote part of town
 
 
-### Session 2:
+## Session 2:
 - Walking back to bot closet and dumpy apartment
 - CharLz and Kraigori hear cries for help a few blocks away
 - See 7 Sword Worlders doing clubbin on three guys
@@ -30,7 +30,7 @@ tags:
 - Get to access library and are shown to their quarters by Steward Rachel Clark
  
  
-### Session 3:
+## Session 3:
 - Char-LZ and Kraigori get told they get accommodation vouchers daily but are expected to work 2 4 hours shifts daily
 - Told that work availability/assignments get handed out at the Job Center once the ship has left
 - Kraigori spends two of the three days prior to liftoff in the medbay, harasses a marine George Guzel with a cybernetic looking implant
@@ -48,7 +48,7 @@ tags:
 - 8 hr til ship liftoff
  
  
-### Session 4:
+## Session 4:
 - Charlz gets pulled back to the medbay after Kraigori hauls him in
 - He gets charged medical bills, but they learn the first round was covered by the commodore
 - Kraigori chats with the weird face marine George Guzel and he says see you around maybe

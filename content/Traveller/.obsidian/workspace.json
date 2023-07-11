@@ -37,14 +37,82 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7.11.23 Session.md",
+                "file": "Recaps - Story So Far.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0978b18b062f8698",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Handouts - Binder Resources.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cda08af398d2ffee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Combat Cheat Sheet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5c0db060c73338e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Combat Flow Chart.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1915d3925067636f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "ec95fd6066989d7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Traveller GM Screen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "612e9a9645a1e180",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Combat Cheat Sheet.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7.11.23 Session.md",
+                "file": "Combat Cheat Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7.11.23 Session.md",
+                "file": "Combat Cheat Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7.11.23 Session.md"
+                "file": "Combat Cheat Sheet.md"
               }
             }
           }
@@ -171,15 +239,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "672afc15cb0b5c17",
+  "active": "cda08af398d2ffee",
   "lastOpenFiles": [
-    "Session Materials.md",
-    "Recaps - Story So Far.md",
-    "7.11.23 Session.md",
+    "Character Creation Flowchart.md",
     "Handouts - Binder Resources.md",
-    "combat flow chart.png",
-    "Traveller Cheat Sheet (Print Friendly).pdf",
     "Trav2022CharSheet_new.pdf",
+    "Traveller GM Screen.md",
+    "Combat Flow Chart.md",
+    "Combat Cheat Sheet.md",
+    "Recaps - Story So Far.md",
+    "combat flow chart.png",
+    "Session Materials.md",
+    "7.11.23 Session.md",
+    "Traveller Cheat Sheet (Print Friendly).pdf",
     "Mg2e Char Creation.pdf",
     "54953-Traveller_GM_Screen_v1.1.pdf",
     "hide/tg2trlwx.bmp",
